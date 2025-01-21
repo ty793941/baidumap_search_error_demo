@@ -1,3 +1,5 @@
+问题是添加了 使用了 Mutex导致的。
+
 # flutter_bmfmap_example
 
 Demonstrates how to use the flutter_bmfmap plugin.
